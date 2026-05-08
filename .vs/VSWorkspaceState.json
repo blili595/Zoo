@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\database",
+    "\\database\\factories",
+    "\\graphql",
+    "\\public\\build",
+    "\\public\\storage",
+    "\\resources",
+    "\\routes",
+    "\\storage\\logs"
+  ],
+  "SelectedNode": "\\database\\factories\\UserFactory.php",
+  "PreviewInSolutionExplorer": false
+}
